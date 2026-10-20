@@ -1,33 +1,19 @@
-# Olá, eu sou o Cleidson 👋
+Oi, eu sou o Cleidson.
 
-Técnico de Sistemas em transição para **automação, desenvolvimento e suporte técnico remoto**.
-Estudante de Análise e Desenvolvimento de Sistemas na **Facens (Sorocaba/SP)**, morando em São Roque/SP.
+Trabalho com sistemas de segurança eletrônica (CFTV, alarme de incêndio e controle de acesso) e estou migrando para a área de desenvolvimento, automação e suporte técnico remoto. Faço Análise e Desenvolvimento de Sistemas na Facens, em Sorocaba, e moro em São Roque, SP.
 
-## O que eu faço
+Venho do lado prático da tecnologia: instalar, configurar, descobrir por que alguma coisa parou de funcionar e explicar isso para o cliente. Agora estou levando essa mesma mentalidade para o código, principalmente automação com n8n, Python e integração de APIs, incluindo IA.
 
-- **Automação com IA:** workflows em n8n integrando APIs, webhooks e LLMs (Claude API, modelos locais via Ollama).
-- **Python** e integração de APIs REST/JSON.
-- **Base técnica em campo:** anos de experiência com CFTV, SDAI, controle de acesso, redes, troubleshooting e suporte remoto.
+## O que tem por aqui
 
-## Projetos em destaque
+- [n8n-job-hunting-agent](https://github.com/Cleizada/n8n-job-hunting-agent): um fluxo que procura vagas remotas por mim, pede para o Claude dar uma nota de aderência e me avisa no Telegram.
+- [n8n-gmail-classifier](https://github.com/Cleizada/n8n-gmail-classifier): organiza meu Gmail usando um modelo rodando no meu próprio computador, sem mandar e-mail para API de terceiros.
+- [agua](https://github.com/Cleizada/agua), [meu-treino](https://github.com/Cleizada/meu-treino) e [tamagotchi](https://github.com/Cleizada/tamagotchi): apps pequenos, de um arquivo só, que fiz para estudar e para usar no dia a dia.
 
-| Projeto | O que faz | Stack |
-|---|---|---|
-| [n8n-job-hunting-agent](https://github.com/Cleizada/n8n-job-hunting-agent) | Busca vagas remotas, pontua a aderência com IA e avisa no Telegram | n8n, Apify, Claude Haiku, Telegram |
-| [n8n-gmail-classifier](https://github.com/Cleizada/n8n-gmail-classifier) | Classifica e organiza centenas de e-mails com um LLM local | n8n, Ollama, DeepSeek R1, Gmail API |
-| [agua](https://github.com/Cleizada/agua) | Lembrete de água com meta diária calculada pelo peso | HTML, JS |
+## Com o que eu mexo
 
-## Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-Também: Claude API, Ollama, REST/JSON, webhooks, Jira (básico), Google Sheets, TeamViewer, redes.
+Python, n8n, JavaScript, HTML e CSS, APIs REST, webhooks, Claude API, Ollama. Também tenho base em redes, suporte remoto e documentação técnica.
 
 ## Contato
 
-- LinkedIn: [linkedin.com/in/cleidson-soares](https://www.linkedin.com/in/cleidson-soares)
-- E-mail: cleidson.gates@gmail.com
+[LinkedIn](https://www.linkedin.com/in/cleidson-soares) ou cleidson.gates@gmail.com
